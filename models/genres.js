@@ -22,3 +22,4 @@ const validateFunc = obj => {
 
 module.exports.Genre = Genre;
 module.exports.validateFunc = validateFunc;
+module.exports.genresSchema = genresSchema;
